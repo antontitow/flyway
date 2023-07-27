@@ -1,0 +1,2 @@
+mvn -Dflyway.user=postgres -Dflyway.password=postgres -Dflyway.url=jdbc:postgresql://localhost:5433/secure -Dflyway.locations=filesystem:db/migration flyway:migrate
+mvn -Dflyway.user=postgres -Dflyway.password=postgres -Dflyway.url=jdbc:postgresql://localhost:5433/secure -Dflyway.locations=filesystem:db/migration flyway:migrate
