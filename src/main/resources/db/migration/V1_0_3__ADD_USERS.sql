@@ -1,0 +1,1 @@
+INSERT INto public.USERS(login,password_hash) values('Ben', 'PasswordBen');
